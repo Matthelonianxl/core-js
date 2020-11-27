@@ -9,7 +9,7 @@
   "main": "index.js",
   "dependencies": {
     "core-js": "3.6.5",
-    "core-js-compat": "3.6.5",
+    "core-js-compat": "3.7.0",
     "mkdirp": "^0.5.1",
     "webpack": "^4.41.5"
   },
